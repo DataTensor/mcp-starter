@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Global Financial Overview & Charts",
+  "description": "Real-time global market quotes, interactive candlestick charts, heatmaps, screener, and multi-asset analytics for stocks, crypto, forex, indices, and commodities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
